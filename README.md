@@ -1,0 +1,1 @@
+# Leitor-e-Gerador-de-QR-code
